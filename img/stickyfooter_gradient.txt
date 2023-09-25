@@ -1,0 +1,21 @@
+.stickyfooter_wrapper {
+    min-height: 100%;
+    margin-bottom: -71px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: block;
+    /* [disabled]font-variant: normal; */
+    /* [disabled]text-shadow: 0px 0px; */
+    height: auto;
+    position: relative;
+    -webkit-box-shadow: -1px 6px 44px 9px rgba(175,148,76,1.00);
+    box-shadow: -1px 6px 44px 9px rgba(175,148,76,1.00);
+    background-image: url(../img/lake_crop3.jpg), -o-linear-gradient(270deg,rgba(127,127,127,0.69) 0%,rgba(255,255,255,0.42) 100%);
+    background-image: url(../img/lake_crop3.jpg), -webkit-linear-gradient(270deg,rgba(127,127,127,0.69) 0%,rgba(255,255,255,0.42) 100%);
+    background-image: url(../img/lake_crop3.jpg), -moz-linear-gradient(270deg,rgba(127,127,127,0.69) 0%,rgba(255,255,255,0.42) 100%);
+    background-image: url(../img/lake_crop3.jpg), linear-gradient(180deg,rgba(127,127,127,0.69) 0%,rgba(255,255,255,0.42) 100%);
+    background-color: #ECE9E9;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: cover;
+}

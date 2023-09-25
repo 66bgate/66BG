@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_nationalrailway</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Spec_Desktop_PropertyPage" transform="translate(-1170.000000, -1306.000000)">
+            <g id="ic_nationalrailway" transform="translate(1170.000000, 1306.500000)">
+                <rect id="Rectangle" fill="#3047FF" x="0" y="0" width="16" height="16"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="2" y="6" width="12" height="1"></rect>
+                <polygon id="Rectangle" fill="#FFFFFF" points="4.87976074 4 7 4 11 6 8.87976074 6"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="5 10 7.12023926 10 11.1202393 12 9 12"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" transform="translate(8.060120, 8.000000) scale(-1, 1) translate(-8.060120, -8.000000) " points="5 7 7.12023926 7 11.1202393 9 9 9"></polygon>
+                <rect id="Rectangle" fill="#FFFFFF" x="2" y="9" width="12" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
