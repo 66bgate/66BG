@@ -1,0 +1,35 @@
+@charset "utf-8";
+.box {
+  width: 100px;
+  height: 100px;
+  clear: none;
+}
+.box.a {
+  background-color: #FF0000;
+  display: inline-block;
+  text-shadow: 0px 0px;
+  float: left;
+  clear: none;
+}
+.boxes {
+  text-shadow: 0px 0px;
+  background-color: #717171;
+  display: block;
+  clear: none;
+}
+
+.box.b {
+  background-color: #0000FF;
+  float: left;
+  clear: none;
+}
+.box.c {
+  background-color: #008000;
+  float: left;
+  clear: none;
+}
+.box.d {
+  background-color: #FFFF00;
+  float: right;
+  clear: none;
+}

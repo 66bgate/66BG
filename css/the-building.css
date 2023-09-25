@@ -1,0 +1,16 @@
+@charset "utf-8";
+.container .row .purple_merge.position2 {
+  position: absolute;
+  width: 270px;
+  height: 44px;
+  top: 424px;
+  left: 949px;
+}
+.container .row .pdfy.position2 {
+  position: absolute;
+  z-index: 41;
+  top: 413px;
+  width: 57px;
+  height: 61px;
+  left: 963px;
+}

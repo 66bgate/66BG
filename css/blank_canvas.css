@@ -1,0 +1,176 @@
+@charset "utf-8";
+/*.page1 .container .row {
+  display: block;
+  height: auto;
+}*/
+.page1 .container .travel {
+	background-color: hsla(0,0%,100%,0.92);
+	display: inline-block;
+	font-size: 11px;
+	width: 259px;
+	height: 250px;
+	position: relative;
+	left: 3px;
+	line-height: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	padding-top: 85px;
+	z-index: 0;
+	padding-left: 0px;
+}
+.page1 .container .side_note {
+	width: 223px;
+	position: relative;
+	padding-top: 14px;
+	padding-left: 18px;
+	padding-right: 18px;
+	line-height: 20px;
+	z-index: 9;
+	/* [disabled]height: 290px; */
+	background-color: rgba(197,191,175,1.00);
+	left: -11px;
+	top: -21px;
+	padding-bottom: 0px;
+	float: right;
+}
+.container .black .gmap {
+	position: relative;
+	left: 10px;
+	width: 661px;
+	height: 470px;
+	top: 22px;
+
+}
+.container .white_backing #sliderwrap_location {
+	position: relative;
+	width: 211px;
+	top: 35px;
+	left: -22px;
+}
+.container .travel .rail {
+  background-image: url(../img/rail.svg);
+  background-position: 171px 4px;
+  background-size: 3.64mm auto;
+  background-repeat: no-repeat;
+  padding-left: 22px;
+  margin-top: 0px;
+  width: 200px;
+  margin-left: -3px;
+}
+.container .travel .tube1 {
+  background-repeat: no-repeat;
+  background-image: url(../img/tube.svg);
+  background-size: 4mm auto;
+  margin-top: 13px;
+  padding-left: 22px;
+  background-position: 201px 6px;
+  width: 200px;
+  margin-left: -3px;
+}
+.container .travel .tube2 {
+  background-image: url(../img/tube.svg);
+  background-size: 4mm auto;
+  background-repeat: no-repeat;
+  padding-left: 22px;
+  margin-top: 13px;
+  background-position: 234px 5px;
+  width: 234px;
+  margin-left: -3px;
+}
+.container .travel .taxi {
+  background-image: url(../img/cabby.svg);
+  background-size: 3.5mm auto;
+  background-position: 90px 5px;
+  padding-left: 22px;
+  margin-top: 13px;
+  width: 200px;
+  background-repeat: no-repeat;
+  margin-left: -3px;
+}
+.container .travel .post_office {
+  background-image: url(../img/Post_Office_Logo.svg);
+  background-size: 4mm auto;
+  background-repeat: no-repeat;
+  margin-top: 13px;
+  background-position: 143px 6px;
+  padding-left: 22px;
+  width: 200px;
+  margin-left: -3px;
+}
+.container .travel .bike1 {
+  background-image: url(../img/bike.svg);
+  width: 5mm;
+  position: absolute;
+  background-position: 0px 0px;
+  background-size: 5mm auto;
+  height: 5mm;
+  top: 41px;
+  background-repeat: no-repeat;
+  left: 98px;
+  opacity: 0.9;
+}
+.container .travel .bike2 {
+  background-image: url(../img/bike.svg);
+  width: 6mm;
+  position: absolute;
+  background-position: 0px 0px;
+  background-size: 5mm auto;
+  height: 5mm;
+  top: 106px;
+  background-repeat: no-repeat;
+  left: 98px;
+  opacity: 0.9;
+}
+.distance {
+  margin-top: -68px;
+  font-weight: 500;
+  line-height: 0px;
+  position: relative;
+  top: 12px;
+  margin-bottom: 18px;
+  margin-left: -4px;
+}
+.time_takes {
+  position: relative;
+  top: -23px;
+  line-height: 32px;
+  margin-top: 0px;
+  background-image: url(../img/walk1.svg);
+  background-size: 9px auto;
+  background-repeat: no-repeat;
+  background-position: 1px 8px;
+  margin-left: 12px;
+  padding-left: 15px;
+}
+.bullet   {
+  background-image: url(../img/bullet1-01.svg);
+  background-position: 50% 50%;
+  background-size: 50.7px 7px;
+  width: 12px;
+  height: 12px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.seperator1 {
+  border-bottom: thin solid rgba(197,191,175,1.00);
+  width: 258px;
+  position: absolute;
+  height: 1px;
+  top: 53px;
+  left: 3px;
+}
+.side_note_bottom {
+	background-color: rgba(197,191,175,1.00);
+	width: 258px;
+	left: 951px;
+	height: 165px;
+	margin-right: 11px;
+	top: 130px;
+	position: relative;
+	z-index: 0;
+}

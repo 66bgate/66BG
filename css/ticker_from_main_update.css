@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+/* ============================================================
+	// Webticker
+   ============================================================ */
+.tickercontainer { /*width of the original container in which the ticker appears*/
+	width: 596px;
+	height: 27px;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline-block;
+	right: -320px;
+	position: relative;
+	z-index: 1;
+	top: -24px;
+	float: right;
+	clear: both;
+}
+.tickercontainer .mask { /* that serves as a mask. so you get a sort of padding both left and right */
+	position: relative;
+	height: 18px;
+	overflow: hidden;
+	width: 553px;
+	top: 2px;
+	left: 0; 
+	overflow-x: visible;
+	overflow-y: visible;
+}
+ul.newsticker { /* that's your list */
+	/*//important to enable css3 transitions properly */
+	-webkit-transition: all 0s linear;
+	-moz-transition: all 0s linear;
+	-o-transition: all 0s linear;
+	transition: all 0s linear;
+	list-style: none;
+	margin: 0;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: Verdana;
+	list-style-type: none;
+	padding: 0;
+}
+ul.newsticker li {
+	float: left; /* important: display inline gives incorrect results when you check for elem's width */
+	margin: 0;
+	padding-right: 15px;
+	display: inline-block;
+	color: rgba(118,111,111,1.00);
+}
+*,input {
+    /* [disabled]font-family: museo-sans; */
+ /*   font-style: normal;
+    font-weight: 300;
+    list-style-type: none;*/
+    position: relative;
+ /*   z-index: 10;*/
+  /*  height: auto;*/
+}
+/*#webticker {
+	font-size: 17px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: rgba(117,117,118,1.00);
+	top: -1px;  
+}*/
+#webticker {
+    font-size: 17px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+   /* color: rgba(139,18,59,1.00);*/
+    top: -1px;
+}

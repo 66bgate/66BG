@@ -1,0 +1,166 @@
+/*============================================================
+	// Global
+   ============================================================ */
+ 
+/*#keyline {
+	border: 1px solid #9a9888;
+	position: absolute;
+	top: 10px;
+	bottom: 10px;
+	left: 10px;
+	right: 10px;
+	min-width: 926px;
+	min-height: 700px;
+	padding-bottom: 9px;
+	padding-top: 9px;
+	z-index: 1;
+	margin-bottom: auto;
+}*/
+/*header .container {
+	position: relative;
+	height: 125px;
+	display: block;
+}*/
+.nav  {
+	margin-top: 4px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+	width: 105px;
+	/* [disabled]left: -50px; */
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-shadow: -1px 1px rgba(0,0,0,1.00);
+	line-height: 23px;
+}
+header a {
+  color: #bcb4b1;
+}
+header a:hover {
+	color: #fff;
+}
+/*header h1 a {
+	display: block;
+    width: 100%;
+	text-decoration: none;
+	height: 72px;
+}*/
+h1 {
+	font-size: 23px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 400;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	display: inline-block;
+	text-align: left;
+}
+.nav > li > a:hover {
+  color: #fff;
+  background-color: transparent;
+}
+.nav > .active > a {
+	font-weight: 900;
+	color: #FFFFFF;
+}
+
+body,
+label {
+  /* [disabled]font-size: 17px; */
+  /* [disabled]line-height: 23px; */
+}
+*,
+input {
+  /* [disabled]-webkit-font-smoothing: antialiased; */
+}
+a {
+  color: #584a46;
+}
+a:hover {
+    color: rgba(108,108,108,0.90);
+    text-decoration: none;
+}
+/* ============================================================
+	// Webticker
+   ============================================================ */
+.tickercontainer { /*width of the original container in which the ticker appears*/
+	width: 596px;
+	height: 27px;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline-block;
+	right: -320px;
+	position: relative;
+	z-index: 1;
+	top: -24px;
+	float: right;
+	clear: both;
+}
+.tickercontainer .mask { /* that serves as a mask. so you get a sort of padding both left and right */
+	position: relative;
+	height: 18px;
+	overflow: hidden;
+	width: 553px;
+	top: 2px;
+	left: 0; 
+	overflow-x: visible;
+	overflow-y: visible;
+}
+ul.newsticker { /* that's your list */
+	/*//important to enable css3 transitions properly */
+	-webkit-transition: all 0s linear;
+	-moz-transition: all 0s linear;
+	-o-transition: all 0s linear;
+	transition: all 0s linear;
+	list-style: none;
+	margin: 0;
+/*	font-weight: bold;
+	font-size: 12px;*/
+	font-family: Verdana;
+	list-style-type: none;
+	padding: 0;
+}
+ul.newsticker li {
+	float: left; /* important: display inline gives incorrect results when you check for elem's width */
+	margin: 0;
+	padding-right: 15px;
+	display: inline-block;
+	color: rgba(188,180,169,1.00);
+	text-shadow: -1px 1px 1px hsla(0,0%,0%,1.00);
+}
+/*---------------*/
+#webticker {
+	font-size: 16px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	/*color: rgba(117,117,118,1.00);*/
+	top: -2px;
+}
+/* ============================================================
+	// Typekit
+   ============================================================ */ 
+    
+*,input {
+    list-style-type: none;
+    position: relative;
+    z-index: 10;
+    /* [disabled]height: auto; */
+}
+.page3 .container .slid {
+	display: inline-block;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+/*---------------*/
+p {
+  font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  font-size: 11px;
+  padding-left: 12px;
+}

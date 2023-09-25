@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/* [disabled]padding-bottom: 288px; */
+/*height: 85%;*/
+.wraps {
+	background: top no-repeat;
+	background-position: 0px 0px;
+	animation: animatedBackground 383.5s linear infinite;
+	-webkit-animation: animatedBackground 383.5s linear infinite;
+	-ms-animation: animatedBackground 383.5s linear infinite;
+	-moz-animation: animatedBackground 383.5s linear infinite;
+	display: inline-block;
+	position: relative;
+	background-size: 7440px 1900px;
+	left: 0px;
+	right: 0px;
+	clear: both;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	text-align: center;	
+	height: 100%;	
+}
+#cloud {
+	max-width: 1145px;
+}
+@keyframes animatedBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 100% 0;
+    }
+}
+@-webkit-keyframes animatedBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 100% 0;
+    }
+}
+@-moz-keyframes animatedBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 100% 0;
+    }
+}	

@@ -1,0 +1,74 @@
+@charset "utf-8";
+.page3 .container #side_note {
+	width: 242px;
+	position: relative;
+	top: -411px;
+	left: 977px;
+	/*    background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.83) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,0.83) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,0.83) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,0.83) 100%,rgba(255,0,0,1.00) 100%);*/
+	/* [disabled]-webkit-box-shadow: -4px 4px 7px hsla(0,0%,2%,0.49); */
+	/* [disabled]box-shadow: -4px 4px 7px hsla(0,0%,2%,0.49); */
+	padding-top: 18px;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-bottom: 168px;
+	/* [disabled]color: #003399; */
+	/* [disabled]border-left: thick solid #AC946C; */
+	line-height: 20px;
+	z-index: -128;
+	height: 135px;
+	background-color: rgba(197,191,175,1.00);
+}
+.page3 .container #sliderwrap_location {
+	position: relative;
+	left: 6px;
+	/* [disabled]margin-top: -167px; */
+}
+footer .container .scrolling_text {
+	margin-top: 23px;
+	position: relative;
+	left: -330px;
+	width: 10px;
+	overflow-x: no-display;
+	overflow-y: no-display;
+}
+.gmap   {
+	display: inline-block;
+	width: 691px;
+	height: 470px;
+	position: relative;
+	margin-bottom: 0px;
+	margin-left: 8px;
+	margin-top: 10px;
+}
+.page3 .container .travel {
+	height: 312px;
+	background-color: hsla(0,0%,100%,1.00);
+	width: 278px;
+	position: relative;
+	display: inline-block;
+	top: 5px;
+	left: -6px;
+}
+.container .travel .nearest {
+  position: relative;
+  display: inline-block;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 7px;
+  top: -22px;
+  height: 218px;
+  padding-right: 7px;
+}
+.container .travel .nearest_stations {
+  padding-left: 16px;
+  padding-top: 21px;
+  margin-bottom: 8px;
+}
+.page3 .container .black {
+	position: relative;
+	left: -4px;
+	top: -78px;
+}

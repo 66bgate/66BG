@@ -1,0 +1,123 @@
+@charset "utf-8";
+.no-js body .title {
+font-family: Graphik, sans-serif;
+color: #040405;
+line-height: 1.33;
+font-size: 15px;
+box-sizing: border-box;
+font-weight: 500;
+padding-bottom: 1.26667rem;   
+}
+.no-js body .item.route.empty.loader {
+font-family: Graphik, sans-serif;
+color: #040405;
+line-height: 1.33;
+box-sizing: border-box;
+display: none;
+position: relative;
+border-top: 1px solid rgba(167, 167, 180, 0.5);
+padding-top: 1.4rem;
+padding-bottom: 0.73333rem;
+padding-left: 2.33333rem;
+font-size: 1.06667rem;
+}
+body .item.route.empty.loader .color.animated-background {
+font-family: Graphik, sans-serif;
+color: #040405;
+line-height: 1.33;
+font-size: 1.06667rem;
+box-sizing: border-box;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+animation-iteration-count: infinite;
+animation-name: placeHolderShimmer;
+animation-timing-function: linear;
+background: linear-gradient(to right, #EEEEEE 8%, #DDDDDD 18%, #EEEEEE 33%);
+background-size: 800px 104px;
+position: absolute;
+left: 0;
+width: 1.11111rem;
+border-radius: 2.5px;
+top: 1.8rem;
+border: none;
+height: 5px;
+}
+body .item.route.empty.loader .flex {
+    font-family: Graphik, sans-serif;
+color: #040405;
+line-height: 1.33;
+font-size: 1.06667rem;
+box-sizing: border-box;
+display: flex;
+}
+.item.route.empty.loader .flex .name.animated-background {
+    font-family: Graphik, sans-serif;
+color: #040405;
+line-height: 1.33;
+font-size: 1.06667rem;
+box-sizing: border-box;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+animation-iteration-count: infinite;
+animation-name: placeHolderShimmer;
+animation-timing-function: linear;
+background: linear-gradient(to right, #EEEEEE 8%, #DDDDDD 18%, #EEEEEE 33%);
+background-size: 800px 104px;
+position: relative;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+width: 100%;
+height: 1rem;
+}
+
+body .item.route.empty.loader .times {
+    font-family: Graphik, sans-serif;
+color: #040405;
+line-height: 1.33;
+box-sizing: border-box;
+margin-top: 0.38889rem;
+font-size: 1.2rem;
+}
+
+.item.route.empty.loader .times .time.on-foot.animated-background {
+    font-family: Graphik, sans-serif;
+line-height: 1.33;
+font-size: 1.2rem;
+box-sizing: border-box;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+animation-iteration-count: infinite;
+animation-name: placeHolderShimmer;
+animation-timing-function: linear;
+background: linear-gradient(to right, #EEEEEE 8%, #DDDDDD 18%, #EEEEEE 33%);
+background-size: 800px 104px;
+position: relative;
+display: inline-block;
+width: 73px;
+color: #777783;
+margin-right: 1.33333rem;
+height: 1rem;
+}
+
+.item.route.empty.loader .times .time.bicycle.animated-background {
+    font-family: Graphik, sans-serif;
+line-height: 1.33;
+font-size: 1.2rem;
+box-sizing: border-box;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+animation-iteration-count: infinite;
+animation-name: placeHolderShimmer;
+animation-timing-function: linear;
+background: linear-gradient(to right, #EEEEEE 8%, #DDDDDD 18%, #EEEEEE 33%);
+background-size: 800px 104px;
+position: relative;
+display: inline-block;
+width: 73px;
+color: #777783;
+margin-right: 1.33333rem;
+height: 1rem;
+padding-right: 0;
+}
+

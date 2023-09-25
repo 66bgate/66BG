@@ -1,0 +1,85 @@
+@charset "utf-8";
+.left_image {
+    display: inline-block;
+    float: left;
+    /* [disabled]left: 20px; */
+    margin-left: 53px;
+    margin-top: 0px;
+}
+.page_g .container #overflow_control {
+	overflow-x: hidden;
+	overflow-y: hidden;
+	padding-bottom: 0px;
+	padding-left: 9px;
+}
+#sliderwrap_gallery {
+    position: relative;
+    left: -9px;
+    clear: both;
+    margin-top: 79px;
+    width: 900px;
+    top: -2px;
+}
+
+#magazine {
+    width: 914px;
+    height: 340px;
+    left: 20px;
+    z-index: 10;
+    margin-top: -2px;
+    margin-left: 298px;
+}
+#pdf3rd {
+    top: -247px;
+    z-index: 11;
+    display: inline-block;
+    left: -49px;
+    background-image: url(../img/pdf.gif);
+    background-repeat: no-repeat;
+    background-size: 19px auto;
+    background-position: 0% 100%;
+    position: relative;
+    width: 116px;
+    height: 31px;
+    text-align: right;
+    padding-bottom: 5px;
+    margin-left: 5px;
+}
+.page_g .container .page_title {
+    margin-top: 10px;
+    border-left: thick solid #AC946C;
+    margin-bottom: 13px;
+    z-index: 12;
+}
+#pdf4th {
+    z-index: 11;
+    top: -280px;
+    left: 75px;
+    display: inline-block;
+    background-image: url(../img/pdf.gif);
+    background-repeat: no-repeat;
+    background-size: 19px auto;
+    background-position: 0% 100%;
+    position: relative;
+    width: 116px;
+    height: 31px;
+    text-align: right;
+    padding-bottom: 5px;
+    margin-left: 5px;
+}
+.container #overflow_control .sidenote {
+    position: absolute;
+    top: -74px;
+}
+.page_g .container .white_backing {
+    position: absolute;
+}
+.page_g .container .black {
+    margin-left: -265px;
+}
+.page_g .container .sidenote {
+    padding-left: 0px;
+    margin-left: -267px;
+    padding-right: 303px;
+    padding-bottom: 19px;
+}
