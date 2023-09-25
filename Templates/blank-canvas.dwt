@@ -1,0 +1,86 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">-->
+
+<link rel="manifest" href="site.webmanifest">
+<link rel="apple-touch-icon" href="icon.png">
+<!-- Place favicon.ico in the root directory -->
+
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/main.css">
+<link href="css/scratch.css" rel="stylesheet" type="text/css">
+<link href="css/main_snatched.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#fafafa">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body class="ssi_body">
+<div class="keyline">
+ <div class="stickyfooter_wrapper">
+  <header>
+   <div class="container">
+    <div class="plate"> <img src="img/plate.jpg" width="140" height="141" alt=""/></div>
+    <div class="text_logo"><img src="img/buckingham_gate_logo.png" width="183" height="47" alt=""/></div>
+    <nav class="navigation">
+     <ul class="nav">
+      <li class="home"><a href="index.html" title="Home">Home</a></li>
+      <li class="the-building active"><a href="the-building.html" title="The Building">The Building</a></li>
+      <li class="gallery"><a href="gallery.html" title="Gallery">Gallery</a></li>
+      <li class="location"><a href="location.html" title="Location">Location</a></li>
+      <li class="Works"><a href="works.html"  title="Works">Works</a></li>
+     </ul>
+    </nav>
+    <nav class="navigation">
+     <ul class="nav">
+      <li class="contact"><a href="contact.html"  title="Contact">Contact</a></li>
+     </ul>
+    </nav>
+    <div class="vr"><a href="vrtour.html" target="_self"><img src="img/vr.svg" width="130" height="81" alt=""/></a></div>
+   </div>
+   <!--container--> 
+   
+  </header>
+  <main class="pagex">
+   <div class="container">
+    <div class="page_title"> Title</div>
+   </div>
+   <!--container--> 
+   
+  </main>
+  <footer>
+   <div class="container">
+    <div class="address">66 Buckingham Gate, Westminster, London. SW1E 6AU</div>
+    <em><!--Welcome and thankyou for visiting the 66 Buckingham Gate website.--></em> </div>
+  </footer>
+ </div>
+ <!--sticky_footer_wrapper--> 
+</div>
+<!--keyline--> 
+
+<!-- Add your site or application content here --> 
+
+<script src="js/vendor/modernizr-3.11.2.min.js"></script> 
+<script src="js/plugins.js"></script> 
+<script src="js/main.js"></script> 
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. --> 
+<!--  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async></script>-->
+
+</body>
+</html>

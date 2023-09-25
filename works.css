@@ -1,0 +1,202 @@
+@charset "utf-8";
+.col1 {
+    width: 259px;
+    display: inline-block;
+    position: relative;
+    height: 628px;
+    border-left: thick solid #AC946C;
+    padding-top: 10px;
+}
+.purple_merge.position3 {
+  position: absolute;
+  width: 302px;
+  height: 44px;
+  top: 305px;
+  left: 305px;
+}
+.purple_merge.position4  {
+  position: absolute;
+  width: 302px;
+  height: 44px;
+  top: 407px;
+  left: 305px;
+}
+.purple_merge.position5  {
+  position: absolute;
+  width: 302px;
+  height: 44px;
+  top: 305px;
+  left: 610px;
+}
+.purple_merge.position6  {
+  position: absolute;
+  width: 304px;
+  height: 44px;
+  top: 407px;
+  left: 610px;
+}
+
+
+
+
+/*.col2   {
+    width: 259px;
+    display: inline-block;
+    position: relative;
+    height: 628px;    
+    border-left: thick solid #AC946C;
+    padding-top: 10px;
+}
+.col3   {
+    width: 259px;
+    display: inline-block;
+    position: relative;
+    height: 628px; 
+    border-left: thick solid #AC946C;
+    padding-top: 10px;
+}*/
+.f22 {
+  font-size: 22px;
+  margin-top: 13px;
+  line-height: 28px;
+}
+#sliderwrap_works   {
+  display: inline-block;
+  position: relative;
+  top: -155px;
+  left: -16px;
+}
+.pdf_2 {
+    position: absolute;
+    top: 37px;
+}
+.page4 .container .upcoming {
+    display: inline-block;
+}
+.works_heading   {
+    display: inline-block;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: -34px;
+    color: #01192B;
+    font-weight: 400;
+}
+.container .upcoming #plans {
+    display: inline-block;
+}
+.works_text   {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 21px;
+  max-width: 250px;
+}
+/*.col1.white_backing {
+    width: 269px;
+}*/
+.page4 .container .row .white_backing {
+  width: 278px;
+  padding-left: 14px;
+  padding-right: 5px;
+  margin-right: 3px;
+}
+.page4 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.pdf_3 {
+    position: absolute;
+    top: 366px;
+}
+.pdf_4 {
+    position: absolute;
+    top: 285px;
+}
+.pdf_5 {
+    position: absolute;
+    top: 339px;
+}
+.page4 .container .row {
+  height: 650px;
+}
+.sidenote_works   {
+  width: 237px;
+  padding-top: 55px;
+  padding-right: 12px;
+  padding-bottom: 64px;
+  border-left: thick solid #AC946C;
+  line-height: 16px;
+  height: 523px;
+  background-color: #C5BFAF;
+  font-size: 11px;
+  font-weight: 400;
+  display: inline-block;
+  position: relative;
+  left: 0px;
+  top: -15px;
+  float: left;
+}
+.row .white_backing .page_title_works {
+  display: inline-block;
+  color: rgba(255,255,255,0.93);
+  font-size: 24px;
+  padding-top: 17px;
+  padding-left: 6px;
+  background-color: #8B123B;
+  width: 253px;
+  line-height: 12px;
+  height: 30px;
+  z-index: 6;
+  position: relative;
+  margin-bottom: 2px;
+  font-weight: 400;
+  opacity: 1;
+  background-image: -o-linear-gradient(0deg,rgba(139,18,58,1.00) 0%,rgba(176,21,73,1.00) 100%);
+  background-image: -webkit-linear-gradient(0deg,rgba(139,18,58,1.00) 0%,rgba(176,21,73,1.00) 100%);
+  background-image: -moz-linear-gradient(0deg,rgba(139,18,58,1.00) 0%,rgba(176,21,73,1.00) 100%);
+  background-image: linear-gradient(90deg,rgba(139,18,58,1.00) 0%,rgba(176,21,73,1.00) 100.00%);
+  vertical-align: top;
+  margin-left: -14px;
+}
+.container .row .pdfy.position3 {
+  position: absolute;
+  z-index: 41;
+  top: 293px;
+  width: 57px;
+  height: 61px;
+  left: 320px;
+}
+.container .row .pdfy.position4 {
+  position: absolute;
+  z-index: 41;
+  top: 398px;
+  width: 57px;
+  height: 61px;
+  left: 321px;
+}
+.container .row .pdfy.position5 {
+  position: absolute;
+  z-index: 41;
+  top: 293px;
+  width: 57px;
+  height: 61px;
+  left: 626px;
+}
+.container .row .pdfy.position6 {
+  position: absolute;
+  z-index: 41;
+  top: 399px;
+  width: 57px;
+  height: 61px;
+  left: 627px;
+}
+.row .col1.white_backing .f22_end {
+  font-size: 22px;
+  margin-top: -59px;
+  line-height: 28px;
+}
+.completed {
+	overflow-y: scroll;
+	height: 428px;
+
+}

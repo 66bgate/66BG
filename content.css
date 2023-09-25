@@ -1,0 +1,20 @@
+@charset "utf-8";
+.page1 .container .left_column {
+	border-width: thin;
+	border-style: inset;
+	display: inline-block;
+	float: left;
+	position: relative;
+	height: 647px;
+	width: 400px;
+	padding-top: 12px;
+	border-radius: 10px;
+	padding-left: 9px;
+}
+.container .left_column .contact_img {
+	display: inline-block;
+	position: relative;
+	left: -50px;
+	top: -60px;
+	float: right;
+}
